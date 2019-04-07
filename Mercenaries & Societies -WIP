@@ -1,0 +1,46 @@
+# This is for now a brainstorming file, to be converted into code at a later date
+# 1 Baradin's Wardens, Tol Barad, mix of Kul Tiran / Dalaranian / Stromic humans https://web.archive.org/web/20130521220402/http://us.battle.net/wow/en/faction/baradins-wardens and https://wow.gamepedia.com/Baradin%27s_Wardens
+# 1 Warcraft 3's mercs in the Arthas campaign, who were ice trolls: https://wow.gamepedia.com/Dissension_(WC3_Human)
+# Marshal's Expedition for Un'goro Crater once released https://wow.gamepedia.com/Marshal_Expeditions 
+# Members:
+Williden Marshal
+   - brother: Livingston Marshal (k_stormwind courtier or Brotherhood of the Horse courtier?)
+   - sister: Hol'anyee Marshal (in his court)
+Hol'anyee Marshal
+shy
+erudite
+scholar
+outstanding scientist? level 4 learning background 
+
+# 1 Merc/Society, Explorer's League (the Dwarven Expedition from Warcraft 3), could be based off Hermetics? 
+# Members:
+Murdain Bronzebeard (leader)
+Baelgun Flamebeard (heir)
+# Events
+Perhaps an initial event where the title Dwarven Expedition is part of e_lordaeron, but then transfers the title to e_ironforge? 
+
+#1 Scarlet Crusade events - Scarlet Onslaught
+# transfer title of the province west of the Wolver one in Dragonblight to the Crusade when it spawns, to represent New Hearthglen / Scarlet Onslaught? 
+
+# Scarlet Crusade courtiers - Mariella Ward "The Heretic"
+Mariella Ward
+class_priest_5
+chaste
+depressed
+erudite
+kind
+religon scarlet_light
+secret_religion holy_light
+
+# Knights of the Silver Hand courtier - Orik Trueheart 
+
+# 1 Veiled Blade, a motley group of mercenary adventurers https://wow.gamepedia.com/Veiled_Blade
+# Members: 
+Falrin Treeshaper the Night Elven Enchanter - associate - in Nightborne court
+  - friends: Anthion Harmon
+  - zealous
+  - wroth
+  
+  
+  
+  
